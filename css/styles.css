@@ -20,7 +20,7 @@ background-color: #FFFFFF;
 }
 /*Reset*/
 ul,ol{
-    list-style: none;
+    list-style: none; 
 }
 a{
 text-decoration: none;
